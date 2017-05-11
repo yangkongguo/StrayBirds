@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: ykg
+username: yangkongguo
 baseurl: /bigDikc
 markdown: redcarpet
 safe: false
