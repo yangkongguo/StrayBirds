@@ -65,10 +65,10 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
-    email: xkzbeta@outlook.comment
-    imageLink: https://avatars.githubusercontent.com/minixalpha
-    simpleIntro:DingerYang：
+    name: 杨仙
+    email: 294154355@qq.com
+    imageLink: http://yangdinger.oss-cn-shanghai.aliyuncs.com/acp.PNG
+    simpleIntro:DingerYang
     detailIntro:
       <p>没什么不同，用来记录人生，也是棒棒哒。你好啊。</p>
       <p>武汉通的男人，摸爬滚打，汉城一枝花。</p>
@@ -91,7 +91,7 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
+    - text: 掌心12222
       url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
